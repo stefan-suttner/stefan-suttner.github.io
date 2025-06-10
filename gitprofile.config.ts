@@ -100,11 +100,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'University of Erlangen-Nuremberg (FAU), DE',
+      position: 'Research & Teaching Associate',
+      from: 'October 2018',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'gg.rw.fau.de/team/stefan-suttner/',
     },
     {
       company: 'Company Name',
@@ -116,24 +116,30 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Erlangen-Nuremberg (FAU), DE',
+      degree: 'PhD in Economics',
+      from: '',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Munich (LMU), DE',
+      degree: 'MSc in Economics',
+      from: '',
+      to: '2015',
+    },
+   {
+      institution: 'University of Munich (LMU), DE',
+      degree: 'BSc in Economics',
+      from: '',
+      to: '2012',
     },
   ],
   publications: [
