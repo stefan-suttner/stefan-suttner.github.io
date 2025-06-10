@@ -75,6 +75,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: 'stefan-suttner.github.io',
+    website: 'gg.rw.fau.de/team/stefan-suttner/',
     phone: '',
     email: 'stefan.suttner _a_ fau.de',
   },
