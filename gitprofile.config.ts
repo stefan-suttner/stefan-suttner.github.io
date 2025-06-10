@@ -126,20 +126,20 @@ const CONFIG = {
     {
       institution: 'University of Erlangen-Nuremberg (FAU), DE',
       degree: 'PhD in Economics',
-      from: '',
-      to: '2024',
+      from: '2024',
+      to: '',
     },
     {
       institution: 'University of Munich (LMU), DE',
       degree: 'MSc in Economics',
-      from: '',
-      to: '2015',
+      from: '2015',
+      to: '',
     },
    {
       institution: 'University of Munich (LMU), DE',
       degree: 'BSc in Economics',
-      from: '',
-      to: '2012',
+      from: '2012',
+      to: '',
     },
   ],
   publications: [
