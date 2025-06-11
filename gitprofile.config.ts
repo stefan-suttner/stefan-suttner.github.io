@@ -129,7 +129,7 @@ const CONFIG = {
     {
       title: 'Issue Linkage and Trade Policy Uncertainty: Evidence from Trade Preferences for Developing Countries',
       conferenceName: 'mimeo, June 2025.',
-      journalName: '',
+      journalName: 'Earlier Version: FAU Discussion Paper in Economics 07/2023',
       authors: '',
       link: 'https://github.com/stefan-suttner/stefan-suttner.github.io/blob/main/public/files/IssueLinkageAndTPU_Suttner_June25.pdf',
       description:
