@@ -33,17 +33,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Trade Dispute Settlement, Enforcement and the WTO',
+          title: 'Keck, A., Moser, C. and Suttner, S. (2025): Trade Dispute Settlement, Enforcement and the WTO',
           description:
-            'joint with Alexander Keck and Christoph Moser',
+            '',
           imageUrl:
             '',
           link: '',
         },
         {
-          title: 'What You Get in Returns: Donor Country Incentives and Unilateral Trade Liberalization',
+          title: 'Moser, C. and Suttner, S. (2025): What You Get in Returns: Donor Country Incentives and Unilateral Trade Liberalization',
           description:
-            'joint with Alexander Keck and Christoph Moser',
+            '',
           imageUrl:
             '',
           link: '',
