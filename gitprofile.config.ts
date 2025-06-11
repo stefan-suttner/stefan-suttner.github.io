@@ -33,17 +33,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Trade Dispute Settlement, Enforcement and the WTO',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'joint with Alexander Keck and Christoph Moser',
           imageUrl:
             '',
           link: '',
         },
         {
-          title: 'Project Name',
+          title: 'What You Get in Returns: Donor Country Incentives and Unilateral Trade Liberalization',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'joint with Alexander Keck and Christoph Moser',
           imageUrl:
             '',
           link: '',
