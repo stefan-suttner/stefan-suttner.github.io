@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Stefan Suttner',
-    description: '',
+    description: 'Stefan Suttner | ',
     imageURL: '',
   },
   social: {
