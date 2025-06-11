@@ -196,12 +196,7 @@ const DetailsCard = ({ profile, loading, social, github }: Props) => {
                   }
                 />
               )}
-              <ListItem
-                icon={<AiFillGithub />}
-                title="GitHub:"
-                value={github.username}
-                link={`https://github.com/${github.username}`}
-              />
+
               {social?.researchGate && (
                 <ListItem
                   icon={<SiResearchgate />}
