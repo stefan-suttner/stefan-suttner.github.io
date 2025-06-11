@@ -94,7 +94,7 @@ const CONFIG = {
       position: 'Research & Teaching Associate',
       from: 'October 2018',
       to: 'Present',
-      companyLink: 'gg.rw.fau.de/team/stefan-suttner/',
+      companyLink: 'https://www.gg.rw.fau.de/team/stefan-suttner/',
     },
   ],
   certifications: [
