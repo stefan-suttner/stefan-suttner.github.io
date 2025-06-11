@@ -127,13 +127,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Issue Linkage and Trade Policy Uncertainty: Evidence from Trade Preferences for Developing Countries',
+      conferenceName: 'mimeo, June 2025.',
+      journalName: '',
+      authors: '',
+      link: 'https://github.com/stefan-suttner/stefan-suttner.github.io/blob/main/public/files/IssueLinkageAndTPU_Suttner_June25.pdf',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This paper quantifies potential costs of issue linkage examining trade preferences granted under the US Generalized System of Preferences (GSP). Preferential market access via US GSP is conditional on political practices by beneficiaries. Using monthly import data, I study trade policy uncertainty related to country-level GSP eligibility reviews conducted by the US administration. For cases initiated between 2003 and 2019, I find negative effects for trade flows from countries under review despite the fact that applied tariffs remained unchanged during the review process. The estimated trade effects of eligibility reviews are sizable and confined to eligible imports for which preferences have been actually claimed. The main findings also hold true for imports for which trade preferences eventually remain in force after the review ended. This can be explained by uncertainty, not anticipation. On average, there are also no anticipation effects prior to the reviews. Hence, the assumption of exogenous treatment is plausible. The results suggest that trade policy uncertainty induced by issue linkage may undermine trade-promoting incentives of trade preferences at stake.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
@@ -151,7 +151,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'light',
+    defaultTheme: 'nord',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
