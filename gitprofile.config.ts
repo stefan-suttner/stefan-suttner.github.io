@@ -46,7 +46,7 @@ const CONFIG = {
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             '',
-          link: 'https://example.com',
+          link: '',
         },
       ],
     },
@@ -76,7 +76,7 @@ const CONFIG = {
     telegram: '',
     website: 'stefan-suttner.github.io',
     phone: '',
-    email: 'stefan.suttner _a_ fau.de',
+    email: 'stefan.suttner_at_fau.de',
   },
   resume: {
     fileUrl:
