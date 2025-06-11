@@ -90,18 +90,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'University of Erlangen-Nuremberg (FAU), DE',
+      company: 'Chair for Global Governance and International Trade, University of Erlangen-Nuremberg (FAU), DE',
       position: 'Research & Teaching Associate',
       from: 'October 2018',
       to: 'Present',
       companyLink: 'gg.rw.fau.de/team/stefan-suttner/',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -171,7 +164,7 @@ const CONFIG = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
