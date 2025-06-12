@@ -66,47 +66,47 @@ const ExternalProjectCard = ({
     return array;
   };
 
-const renderExternalProjects = () => {
-  return externalProjects.map((item, index) => (
-    <div
-      className="card shadow-lg compact bg-base-100"
-      key={index}
-    >
-      <div className="p-8 h-full w-full">
-        <div className="flex items-center flex-col">
-          <div className="w-full">
-            <div className="px-4">
-              <div className="text-center w-full">
-                <h2 className="font-medium text-center opacity-60 mb-2">
-                  {item.title}
-                </h2>
-                {item.imageUrl && (
-                  <div className="avatar opacity-90">
-                    <div className="w-24 h-24 mask mask-squircle">
-                      <LazyImage
-                        src={item.imageUrl}
-                        alt={'thumbnail'}
-                        placeholder={skeleton({
-                          widthCls: 'w-full',
-                          heightCls: 'h-full',
-                          shape: '',
-                        })}
-                      />
+  const renderExternalProjects = () => {
+    return externalProjects.map((item, index) => (
+      <div
+        className="card shadow-lg compact bg-base-100"
+        key={index}
+      >
+        <div className="p-8 h-full w-full">
+          <div className="flex items-center flex-col">
+            <div className="w-full">
+              <div className="px-4">
+                <div className="text-center w-full">
+                  <h2 className="font-medium text-center opacity-60 mb-2">
+                    {item.title}
+                  </h2>
+                  {item.imageUrl && (
+                    <div className="avatar opacity-90">
+                      <div className="w-24 h-24 mask mask-squircle">
+                        <LazyImage
+                          src={item.imageUrl}
+                          alt={'thumbnail'}
+                          placeholder={skeleton({
+                            widthCls: 'w-full',
+                            heightCls: 'h-full',
+                            shape: '',
+                          })}
+                        />
+                      </div>
                     </div>
-                  </div>
-                )}
-                <p className="mt-2 text-base-content text-opacity-60 text-sm text-justify">
-                  {item.description}
-                </p>
+                  )}
+                  <p className="mt-2 text-base-content text-opacity-60 text-sm text-justify">
+                    {item.description}
+                  </p>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  ));
-};
-  
+    ));
+  };
+
   return (
     <Fragment>
       <div className="col-span-1 lg:col-span-2">
