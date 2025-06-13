@@ -38,7 +38,7 @@ const CONFIG = {
             '',
           imageUrl:
             '',
-          link: '',
+
         },
         {
           title: 'Moser, C. and Suttner, S. (2025): What You Get in Returns: Donor Country Incentives and Unilateral Trade Liberalization',
