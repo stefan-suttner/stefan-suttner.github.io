@@ -135,15 +135,6 @@ const CONFIG = {
       description:
         'This paper quantifies potential costs of issue linkage examining trade preferences granted under the US Generalized System of Preferences (GSP). Preferential market access via US GSP is conditional on political practices by beneficiaries. Using monthly import data, I study trade policy uncertainty related to country-level GSP eligibility reviews conducted by the US administration. For cases initiated between 2003 and 2019, I find negative effects for trade flows from countries under review despite the fact that applied tariffs remained unchanged during the review process. The estimated trade effects of eligibility reviews are sizable and confined to eligible imports for which preferences have been actually claimed. The main findings also hold true for imports for which trade preferences eventually remain in force after the review ended. This can be explained by uncertainty, not anticipation. On average, there are also no anticipation effects prior to the reviews. Hence, the assumption of exogenous treatment is plausible. The results suggest that trade policy uncertainty induced by issue linkage may undermine trade-promoting incentives of trade preferences at stake.',
     },
-   {
-      title: 'Test',
-      conferenceName: 'Draft soon.',
-      journalName: 'dfdf',
-      authors: 'dfdfdf sddss ghfc',
-      link: '',
-      description:
-        '',
-    },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
