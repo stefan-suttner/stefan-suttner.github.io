@@ -74,7 +74,7 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'stefan-suttner.github.io',
+    website: 'https://www.gg.rw.fau.de/team/stefan-suttner/',
     phone: '',
     email: 'stefan.suttner_at_fau.de',
   },
